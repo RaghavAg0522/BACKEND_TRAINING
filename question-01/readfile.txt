@@ -1,0 +1,1 @@
+You can test the API using curl commands in your terminal bash
